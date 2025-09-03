@@ -1,0 +1,27 @@
+{
+  "name": "qa_assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaushalaSaranath/qa_assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaushalaSaranath/qa_assessment/issues"
+  },
+  "homepage": "https://github.com/KaushalaSaranath/qa_assessment#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "cypress": "^15.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
